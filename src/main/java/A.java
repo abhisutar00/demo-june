@@ -5,6 +5,7 @@ public class A {
         System.out.println(a1.x);
        int y = a1.test();
         System.out.println(y);
+        System.out.println("abhi sutar");
     }
     public int test() {
         return 100;
